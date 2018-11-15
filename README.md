@@ -24,7 +24,7 @@ Edit `_config.yml`, add
 plugins:
     - jekyll-remote-theme
 
-remote_theme: xdanger/jekyll-theme-notion
+remote_theme: xdanger/jekyll-theme-bare
 ```
 
 Run your site locally
